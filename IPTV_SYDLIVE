@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="7",SEVEN
+https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
+
+#EXTINF:-1 tvg-id="9",NINE
+http://192.168.100.12:5004/auto/v9
+
+#EXTINF:-1 tvg-id="7",TEN
+http://192.168.100.12:5004/auto/v10
