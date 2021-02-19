@@ -4,7 +4,7 @@
 https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
 
 #EXTINF:-1 tvg-id="9",NINE
-http://192.168.100.12:5004/auto/v9
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 
 #EXTINF:-1 tvg-id="7",TEN
-http://192.168.100.12:5004/auto/v10
+https://live.10play.com.au/10NSW/stream.m3u8
