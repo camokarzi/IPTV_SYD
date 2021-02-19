@@ -11,3 +11,9 @@ https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 
 #EXTINF:-1 tvg-id="7",TEN
 https://live.10play.com.au/10NSW/stream.m3u8
+
+#EXTINF:-1 tvg-id="72",7TWO
+https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
+
+#EXTINF:-1 tvg-id="73",7MATE
+https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
