@@ -75,3 +75,6 @@ https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User
 #EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
+#EXTINF:-1 tvg-id="RAI News 24", Rai News 24
+http://eja.tv/?7c91442b6abdbfd18c0c7de626762153.m3u8
+
