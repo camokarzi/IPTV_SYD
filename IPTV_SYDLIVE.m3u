@@ -39,8 +39,8 @@ https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-id="11",10Peach
 https://live.10play.com.au/10PeachNSW/stream.m3u8
 
-#EXTINF:-1 tvg-id="12",10Bold
-https://live.10play.com.au/10BoldNSW/stream.m3u8
+#EXTINF:-1 tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 Bold
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="100",Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
