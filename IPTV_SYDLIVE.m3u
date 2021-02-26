@@ -78,3 +78,6 @@ https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8|X-Forwarded-For=52.62.247.239&User-Ag
 #EXTINF:-1 tvg-id="RAI News 24", Rai News 24
 http://eja.tv/?7c91442b6abdbfd18c0c7de626762153.m3u8
 
+#EXTINF:-1 tvg-id="Italia 1", Italia 1
+http://eja.tv/?9498f9f061f50d0401fcf06bfb4cccc8.m3u8
+
