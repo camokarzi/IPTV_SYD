@@ -95,3 +95,9 @@ http://eja.tv/?cb731f67e132da0ee7e1d9a35c6f77ef.m3u8
 
 #EXTINF:-1 tvg-id="Nove", Nove
 #EXTINF:-1 tvg-id="Canale 5", Canale 5
+
+#EXTINF:-1 tvg-id="Rete 4", Rete 4
+http://eja.tv/?4f479dc0bf844240e4ab74066ca87912.m3u8
+
+#EXTINF:-1 tvg-id="Mediaset Extra", Mediaset Extra
+http://eja.tv/?fecdc746970c45cc37ecaa37d43caf3e.m3u8
