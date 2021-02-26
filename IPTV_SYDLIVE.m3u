@@ -21,8 +21,8 @@ https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
 #EXTINF:-1 tvg-id="74",7flix
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
 
-#EXTINF:-1 tvg-id="75",Outdoor
-https://outdoor.cdn.7livecloud.io/index.m3u8
+#EXTINF:-1 tvg-id="74",9Rush
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 
 #EXTINF:-1 tvg-id="76",FUELTV
 https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
