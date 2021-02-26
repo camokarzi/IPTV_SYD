@@ -78,8 +78,17 @@ https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8|X-Forwarded-For=52.62.247.239&User-Ag
 #EXTINF:-1 tvg-id="RAI News 24", Rai News 24
 http://eja.tv/?7c91442b6abdbfd18c0c7de626762153.m3u8
 
+#EXTINF:-1 tvg-id="RAI 3", Rai 3
+http://eja.tv/?b648c323b68d39d0a864188d27f51e7f.m3u8
+
 #EXTINF:-1 tvg-id="Italia 1", Italia 1
 http://eja.tv/?9498f9f061f50d0401fcf06bfb4cccc8.m3u8
 
+#EXTINF:-1 tvg-id="Italia 2", Italia 2
+http://eja.tv/?c1903887f4e5c8887032a86048a790ab.m3u8
+
 #EXTINF:-1 tvg-id="Canale 5", Canale 5
 http://eja.tv/?621f229bd658c7264465d49a7b465dcf.m3u8
+
+#EXTINF:-1 tvg-id="Canale 20", Canale 20
+http://eja.tv/?cb731f67e132da0ee7e1d9a35c6f77ef.m3u8
